@@ -24,7 +24,7 @@ export default function Home() {
           </code>
         </p>
 
-        <div className="flex flex-wrap justify-around items-center mt-6 sm:w-full max-w-4xl">
+        <div className="flex flex-wrap justify-around items-center mt-6 max-w-4xl sm:w-full">
           <a
             href="https://nextjs.org/docs"
             className="p-6 mt-6 w-96 text-left hover:text-blue-600 focus:text-blue-600 rounded-xl border"
