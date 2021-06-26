@@ -4,5 +4,10 @@
     "next/core-web-vitals",
     "plugin:tailwindcss/recommended"
   ],
-  "plugins": ["tailwindcss"]
+  "plugins": ["tailwindcss"],
+  "settings": {
+    "tailwindcss": {
+      "groupByResponsive": true
+    }
+  }
 }
